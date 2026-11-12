@@ -1,5 +1,7 @@
 # 🛡️ ClaimGuard — Evidence-Based Claim Verification
 
+[![tests](https://github.com/rajkesmaa-12/claimguard/actions/workflows/tests.yml/badge.svg)](https://github.com/rajkesmaa-12/claimguard/actions/workflows/tests.yml) ![Python](https://img.shields.io/badge/python-3.10%2B-blue) ![License: MIT](https://img.shields.io/badge/license-MIT-green)
+
 ClaimGuard checks a factual claim against real evidence and returns **SUPPORTED**, **REFUTED** or **NOT ENOUGH INFO**, together with the sentences and sources behind the decision.
 
 Output format:
